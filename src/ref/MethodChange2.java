@@ -8,7 +8,7 @@ public class MethodChange2 {
         System.out.println("dataA.value = " + dataA.value);
 
         changeReference(dataA);
-        
+
         System.out.println("dataA.value = " + dataA.value);
     }
 
